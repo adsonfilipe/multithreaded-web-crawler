@@ -1,0 +1,233 @@
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Torpedos Brasil.exe.config
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.Net4.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Torpedos Brasil.exe.manifest
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Torpedos Brasil.application
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Torpedos Brasil.exe
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Torpedos Brasil.pdb
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\Abot.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\CsQuery.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\HtmlAgilityPack.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\log4net.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\MahApps.Metro.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\Robots.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\SKGL.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\Abot.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.pdb
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.Net4.pdb
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\CsQuery.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\log4net.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\MahApps.Metro.pdb
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\MahApps.Metro.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\CustomFlyout.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\Resources\Icons.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\Simple Styles.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\CustomFlyout.g.cs
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\MainWindow.g.cs
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\RegistrationWIndow.g.cs
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\Resources\Icons.g.cs
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\Window1.g.cs
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\App.g.cs
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Torpedos Brasil_MarkupCompile.cache
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Torpedos Brasil_MarkupCompile.lref
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\App.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\MainWindow.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\RegistrationWIndow.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\Window1.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Torpedos Brasil.g.resources
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\WpfApplication5.Properties.Resources.resources
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\Extrator.csproj.GenerateResource.Cache
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Torpedos Brasil.TrustInfo.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Torpedos Brasil.exe.manifest
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Torpedos Brasil.application
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Torpedos Brasil.exe
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Torpedos Brasil.pdb
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\Extrator.csprojResolveAssemblyReference.cache
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Torpedos Brasil.exe.licenses
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\DevExpress.Mvvm.v15.1.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Release\DevExpress.Mvvm.v15.1.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.Net4.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\Abot.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\CsQuery.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\HtmlAgilityPack.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\log4net.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\MahApps.Metro.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\Robots.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\SKGL.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\Abot.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.pdb
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.Net4.pdb
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\CsQuery.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\log4net.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\MahApps.Metro.pdb
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\MahApps.Metro.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator.csprojResolveAssemblyReference.cache
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\CustomFlyout.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Resources\Icons.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Simple Styles.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\CustomFlyout.g.cs
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\MainWindow.g.cs
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\RegistrationWIndow.g.cs
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Resources\Icons.g.cs
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Window1.g.cs
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\App.g.cs
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\App.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\MainWindow.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\RegistrationWIndow.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Window1.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\WpfApplication5.Properties.Resources.resources
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator.csproj.GenerateResource.Cache
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.exe.config
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.exe.manifest
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.application
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.exe
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.pdb
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital_MarkupCompile.cache
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital_MarkupCompile.lref
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.g.resources
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.exe.licenses
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.TrustInfo.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.exe.manifest
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.application
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.exe
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.pdb
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator.csprojResolveAssemblyReference.cache
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\CustomFlyout.baml
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Resources\Icons.baml
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Simple Styles.baml
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\CustomFlyout.g.cs
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\MainWindow.g.cs
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\RegistrationWIndow.g.cs
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Resources\Icons.g.cs
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Window1.g.cs
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\App.g.cs
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital_MarkupCompile.cache
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital_MarkupCompile.lref
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\App.baml
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\MainWindow.baml
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\RegistrationWIndow.baml
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Window1.baml
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.g.resources
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\WpfApplication5.Properties.Resources.resources
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator.csproj.GenerateResource.Cache
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.exe.licenses
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.exe
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.pdb
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.Net4.dll
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.exe.config
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.exe.manifest
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.application
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.exe
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.pdb
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\Abot.dll
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.dll
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\CsQuery.dll
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\HtmlAgilityPack.dll
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\log4net.dll
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\MahApps.Metro.dll
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\Robots.dll
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\SKGL.dll
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\System.Windows.Interactivity.dll
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\Abot.xml
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.pdb
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.xml
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.Net4.pdb
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\CsQuery.xml
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\log4net.xml
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\MahApps.Metro.pdb
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\bin\Release\MahApps.Metro.xml
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.TrustInfo.xml
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.exe.manifest
+C:\Windows.old\Users\Filipe\Documents\Visual Studio 2015\Projects\Divulgador Digital\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.application
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.exe.config
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.exe
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.pdb
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.Net4.dll
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.exe.manifest
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.application
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.exe
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.pdb
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\Abot.dll
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.dll
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\CsQuery.dll
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\HtmlAgilityPack.dll
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\log4net.dll
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\MahApps.Metro.dll
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\Robots.dll
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\SKGL.dll
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\Abot.xml
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.pdb
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.xml
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\AutoMapper.Net4.pdb
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\CsQuery.xml
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\log4net.xml
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\MahApps.Metro.pdb
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\bin\Release\MahApps.Metro.xml
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\CustomFlyout.baml
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\Resources\Icons.baml
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\Simple Styles.baml
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\CustomFlyout.g.cs
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\MainWindow.g.cs
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\RegistrationWIndow.g.cs
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\Resources\Icons.g.cs
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\Window1.g.cs
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\App.g.cs
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital_MarkupCompile.cache
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital_MarkupCompile.lref
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\App.baml
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\MainWindow.baml
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\RegistrationWIndow.baml
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\Window1.baml
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.g.resources
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\WpfApplication5.Properties.Resources.resources
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\Extrator.csproj.GenerateResource.Cache
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.exe.licenses
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.TrustInfo.xml
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.exe.manifest
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.application
+C:\Users\Filipe\Desktop\WpfApplication5\WpfApplication5\obj\Release\Extrator.csprojResolveAssemblyReference.cache
+D:\My Backups\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.exe.config
+D:\My Backups\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.exe
+D:\My Backups\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.pdb
+D:\My Backups\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.exe.manifest
+D:\My Backups\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.application
+D:\My Backups\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.exe
+D:\My Backups\WpfApplication5\bin\Release\Extrator de E-mails Divulgador Digital.pdb
+D:\My Backups\WpfApplication5\bin\Release\System.Windows.Interactivity.dll
+D:\My Backups\WpfApplication5\bin\Release\Abot.xml
+D:\My Backups\WpfApplication5\bin\Release\AutoMapper.pdb
+D:\My Backups\WpfApplication5\bin\Release\AutoMapper.xml
+D:\My Backups\WpfApplication5\bin\Release\AutoMapper.Net4.pdb
+D:\My Backups\WpfApplication5\bin\Release\CsQuery.xml
+D:\My Backups\WpfApplication5\bin\Release\log4net.xml
+D:\My Backups\WpfApplication5\bin\Release\MahApps.Metro.pdb
+D:\My Backups\WpfApplication5\bin\Release\MahApps.Metro.xml
+D:\My Backups\WpfApplication5\obj\Release\Extrator.csprojResolveAssemblyReference.cache
+D:\My Backups\WpfApplication5\obj\Release\CustomFlyout.baml
+D:\My Backups\WpfApplication5\obj\Release\Resources\Icons.baml
+D:\My Backups\WpfApplication5\obj\Release\Simple Styles.baml
+D:\My Backups\WpfApplication5\obj\Release\CustomFlyout.g.cs
+D:\My Backups\WpfApplication5\obj\Release\MainWindow.g.cs
+D:\My Backups\WpfApplication5\obj\Release\RegistrationWIndow.g.cs
+D:\My Backups\WpfApplication5\obj\Release\Resources\Icons.g.cs
+D:\My Backups\WpfApplication5\obj\Release\Window1.g.cs
+D:\My Backups\WpfApplication5\obj\Release\App.g.cs
+D:\My Backups\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital_MarkupCompile.cache
+D:\My Backups\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital_MarkupCompile.lref
+D:\My Backups\WpfApplication5\obj\Release\App.baml
+D:\My Backups\WpfApplication5\obj\Release\MainWindow.baml
+D:\My Backups\WpfApplication5\obj\Release\RegistrationWIndow.baml
+D:\My Backups\WpfApplication5\obj\Release\Window1.baml
+D:\My Backups\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.g.resources
+D:\My Backups\WpfApplication5\obj\Release\WpfApplication5.Properties.Resources.resources
+D:\My Backups\WpfApplication5\obj\Release\Extrator.csproj.GenerateResource.Cache
+D:\My Backups\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.exe.licenses
+D:\My Backups\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.TrustInfo.xml
+D:\My Backups\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.exe.manifest
+D:\My Backups\WpfApplication5\obj\Release\Extrator de E-mails Divulgador Digital.application

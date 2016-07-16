@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Filipe\Desktop\torpedosbrasil\|C:\Users\Filipe\Desktop\divulgador\|C:\Users\Filipe\Desktop\divulgadorDigital\extrator\|C:\Users\Filipe\Desktop\torpedos\|ftp://nethosting.pagebr.com/divulgadordigitalExtrator/</PublishUrlHistory>
+    <InstallUrlHistory>http://rentme.net.br/filipe/divulgador/extrator/|http://nethosting.pagebr.com/divulgadordigitalExtrator/|http://nethosting.pagebr.com/upload3/|http://nethosting.pagebr.com/upload2/|http://nethosting.pagebr.com/teste/update/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>http://rentme.net.br/filipe/divulgador/extrator/|http://nethosting.pagebr.com/divulgadordigitalExtrator/|http://nethosting.pagebr.com/upload3/|http://www.nethosting.pagebr.com/upload2/|http://www.nethosting.pagebr.com/update/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,129 @@
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\Extrator de E-mails Torpedos Brasil.exe.config
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\Extrator de E-mails Torpedos Brasil.exe.manifest
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\Extrator de E-mails Torpedos Brasil.application
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\Extrator de E-mails Torpedos Brasil.exe
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\Extrator de E-mails Torpedos Brasil.pdb
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\Abot.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\AutoMapper.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\CsQuery.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\log4net.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\MahApps.Metro.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\Robots.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\SKGL.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\Abot.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\AutoMapper.pdb
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\AutoMapper.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\CsQuery.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\log4net.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\MahApps.Metro.pdb
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\MahApps.Metro.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\CustomFlyout.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\Resources\Icons.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\Simple Styles.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\CustomFlyout.g.cs
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\MainWindow.g.cs
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\RegistrationWIndow.g.cs
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\Resources\Icons.g.cs
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\Window1.g.cs
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\App.g.cs
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\Extrator de E-mails Torpedos Brasil_MarkupCompile.cache
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\Extrator de E-mails Torpedos Brasil_MarkupCompile.lref
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\App.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\MainWindow.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\RegistrationWIndow.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\Window1.baml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\Extrator de E-mails Torpedos Brasil.g.resources
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\WpfApplication5.Properties.Resources.resources
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\Extrator.csproj.GenerateResource.Cache
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\Extrator de E-mails Torpedos Brasil.TrustInfo.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\Extrator de E-mails Torpedos Brasil.exe.manifest
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\Extrator de E-mails Torpedos Brasil.application
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\Extrator de E-mails Torpedos Brasil.exe
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\Extrator de E-mails Torpedos Brasil.pdb
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\dotMemory.Unit.dll
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\bin\Debug\dotMemory.Unit.xml
+C:\Users\Filipe\Documents\Visual Studio 2015\Projects\WpfApplication5\WpfApplication5\obj\Debug\Extrator.csprojResolveAssemblyReference.cache
+D:\My Backups\WpfApplication5\bin\Debug\Extrator de E-mails Divulgador Digital.exe.config
+D:\My Backups\WpfApplication5\bin\Debug\Extrator de E-mails Divulgador Digital.exe.manifest
+D:\My Backups\WpfApplication5\bin\Debug\Extrator de E-mails Divulgador Digital.application
+D:\My Backups\WpfApplication5\bin\Debug\Extrator de E-mails Divulgador Digital.exe
+D:\My Backups\WpfApplication5\bin\Debug\Extrator de E-mails Divulgador Digital.pdb
+D:\My Backups\WpfApplication5\bin\Debug\System.Windows.Interactivity.dll
+D:\My Backups\WpfApplication5\bin\Debug\Abot.xml
+D:\My Backups\WpfApplication5\bin\Debug\AutoMapper.pdb
+D:\My Backups\WpfApplication5\bin\Debug\AutoMapper.xml
+D:\My Backups\WpfApplication5\bin\Debug\AutoMapper.Net4.pdb
+D:\My Backups\WpfApplication5\bin\Debug\CsQuery.xml
+D:\My Backups\WpfApplication5\bin\Debug\log4net.xml
+D:\My Backups\WpfApplication5\bin\Debug\MahApps.Metro.pdb
+D:\My Backups\WpfApplication5\bin\Debug\MahApps.Metro.xml
+D:\My Backups\WpfApplication5\obj\Debug\Extrator.csprojResolveAssemblyReference.cache
+D:\My Backups\WpfApplication5\obj\Debug\CustomFlyout.baml
+D:\My Backups\WpfApplication5\obj\Debug\Resources\Icons.baml
+D:\My Backups\WpfApplication5\obj\Debug\Simple Styles.baml
+D:\My Backups\WpfApplication5\obj\Debug\CustomFlyout.g.cs
+D:\My Backups\WpfApplication5\obj\Debug\MainWindow.g.cs
+D:\My Backups\WpfApplication5\obj\Debug\RegistrationWIndow.g.cs
+D:\My Backups\WpfApplication5\obj\Debug\Resources\Icons.g.cs
+D:\My Backups\WpfApplication5\obj\Debug\Window1.g.cs
+D:\My Backups\WpfApplication5\obj\Debug\App.g.cs
+D:\My Backups\WpfApplication5\obj\Debug\Extrator de E-mails Divulgador Digital_MarkupCompile.cache
+D:\My Backups\WpfApplication5\obj\Debug\Extrator de E-mails Divulgador Digital_MarkupCompile.lref
+D:\My Backups\WpfApplication5\obj\Debug\App.baml
+D:\My Backups\WpfApplication5\obj\Debug\MainWindow.baml
+D:\My Backups\WpfApplication5\obj\Debug\RegistrationWIndow.baml
+D:\My Backups\WpfApplication5\obj\Debug\Window1.baml
+D:\My Backups\WpfApplication5\obj\Debug\Extrator de E-mails Divulgador Digital.g.resources
+D:\My Backups\WpfApplication5\obj\Debug\WpfApplication5.Properties.Resources.resources
+D:\My Backups\WpfApplication5\obj\Debug\Extrator.csproj.GenerateResource.Cache
+D:\My Backups\WpfApplication5\obj\Debug\Extrator de E-mails Divulgador Digital.exe.licenses
+D:\My Backups\WpfApplication5\obj\Debug\Extrator de E-mails Divulgador Digital.TrustInfo.xml
+D:\My Backups\WpfApplication5\obj\Debug\Extrator de E-mails Divulgador Digital.exe.manifest
+D:\My Backups\WpfApplication5\obj\Debug\Extrator de E-mails Divulgador Digital.application
+D:\My Backups\WpfApplication5\obj\Debug\Extrator de E-mails Divulgador Digital.exe
+D:\My Backups\WpfApplication5\obj\Debug\Extrator de E-mails Divulgador Digital.pdb
+C:\Users\Filipe\Desktop\WpfApplication5\bin\Debug\Extrator de E-mails Torpedos Brasil.exe.config
+C:\Users\Filipe\Desktop\WpfApplication5\bin\Debug\Extrator de E-mails Torpedos Brasil.exe.manifest
+C:\Users\Filipe\Desktop\WpfApplication5\bin\Debug\Extrator de E-mails Torpedos Brasil.application
+C:\Users\Filipe\Desktop\WpfApplication5\bin\Debug\Extrator de E-mails Torpedos Brasil.exe
+C:\Users\Filipe\Desktop\WpfApplication5\bin\Debug\Extrator de E-mails Torpedos Brasil.pdb
+C:\Users\Filipe\Desktop\WpfApplication5\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Filipe\Desktop\WpfApplication5\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Filipe\Desktop\WpfApplication5\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Filipe\Desktop\WpfApplication5\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Filipe\Desktop\WpfApplication5\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Filipe\Desktop\WpfApplication5\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Filipe\Desktop\WpfApplication5\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Filipe\Desktop\WpfApplication5\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Filipe\Desktop\WpfApplication5\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Filipe\Desktop\WpfApplication5\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Filipe\Desktop\WpfApplication5\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\Extrator.csprojResolveAssemblyReference.cache
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\CustomFlyout.baml
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\Resources\Icons.baml
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\Simple Styles.baml
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\CustomFlyout.g.cs
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\MainWindow.g.cs
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\RegistrationWIndow.g.cs
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\Resources\Icons.g.cs
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\Window1.g.cs
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\App.g.cs
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\Extrator de E-mails Torpedos Brasil_MarkupCompile.cache
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\Extrator de E-mails Torpedos Brasil_MarkupCompile.lref
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\App.baml
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\MainWindow.baml
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\RegistrationWIndow.baml
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\Window1.baml
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\Extrator de E-mails Torpedos Brasil.g.resources
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\Extrator.Properties.Resources.resources
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\Extrator.csproj.GenerateResource.Cache
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\Extrator de E-mails Torpedos Brasil.exe.licenses
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\Extrator de E-mails Torpedos Brasil.TrustInfo.xml
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\Extrator de E-mails Torpedos Brasil.exe.manifest
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\Extrator de E-mails Torpedos Brasil.application
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\Extrator de E-mails Torpedos Brasil.exe
+C:\Users\Filipe\Desktop\WpfApplication5\obj\Debug\Extrator de E-mails Torpedos Brasil.pdb
